@@ -1,0 +1,19 @@
+{
+  "name": "servertest",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yboeckholtz/node-eersteserver.git"
+  },
+  "author": "Youri van Boeckholtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yboeckholtz/node-eersteserver/issues"
+  },
+  "homepage": "https://github.com/Yboeckholtz/node-eersteserver#readme"
+}
